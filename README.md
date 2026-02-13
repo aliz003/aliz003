@@ -13,6 +13,7 @@ I´m a student of Earth Sciences at the National Autonomous University of Mexico
 ----
   ### Projects ⋆⭒˚｡⋆
 **Analysis of the trophic status of water bodies in central Mexico**
+
 Study of physicochemical and biological parameters to assess eutrophication using Carlson and OECD trophic indices, using Google Sheets, coming soon in a new language.
 
 ---
