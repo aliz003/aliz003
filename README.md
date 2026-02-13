@@ -1,6 +1,8 @@
-## Hi there 👋
+# Hi im Aliz ༘⋆🫧💭₊˚ෆ
+## Earth sciences student | Aquatic Sciences
 
-its rain of tacos from out sky 🌮✨ ... tacos, no need to ask!!!🙀
+----
+### About me 
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
